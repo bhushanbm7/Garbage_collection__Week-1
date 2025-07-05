@@ -1,2 +1,2 @@
-# Garbage_collection__Week-1
+# Garbage_classification
 (talk about your project briefly
